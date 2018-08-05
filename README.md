@@ -36,3 +36,7 @@ You need 32bit OpenSSL (e.g. `sudo apt-get install libssl-dev:i386`).
 `git clone --recursive https://github.com/danzatt/reimagine.git`  
 `cd reimagine/opensn0w-X/src && make all`  
 `cd ../.. && make`
+
+
+compiled for windows
+https://mega.nz/#!g0UyVYpQ!0kUbTnhvZkoh11Op-JQZN-UK6qb1b2U2X-GYgvGXvY8
